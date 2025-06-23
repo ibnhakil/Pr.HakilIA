@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="crownGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Crown base -->
+  <path d="M15 70 L85 70 L80 85 L20 85 Z" fill="url(#crownGradient)" stroke="#B8860B" stroke-width="1"/>
+  
+  <!-- Crown points -->
+  <path d="M15 70 L25 45 L35 60 L50 35 L65 60 L75 45 L85 70 Z" fill="url(#crownGradient)" stroke="#B8860B" stroke-width="1"/>
+  
+  <!-- Crown jewels -->
+  <circle cx="25" cy="52" r="3" fill="#FF6B6B"/>
+  <circle cx="50" cy="42" r="4" fill="#4ECDC4"/>
+  <circle cx="75" cy="52" r="3" fill="#45B7D1"/>
+  
+  <!-- Crown band decoration -->
+  <rect x="20" y="70" width="60" height="8" fill="#FFE55C" opacity="0.7"/>
+  <circle cx="30" cy="74" r="2" fill="#FF6B6B"/>
+  <circle cx="50" cy="74" r="2" fill="#4ECDC4"/>
+  <circle cx="70" cy="74" r="2" fill="#45B7D1"/>
+</svg>
