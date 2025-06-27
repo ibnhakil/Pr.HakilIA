@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What it really is
+##  What it really is
 
 **MathisChess** is:
 - A chess game **playable against an AI or another local player**.
@@ -21,4 +21,4 @@ Feel free to clone, play, contribute — or just explore and see what’s inside
 **PS:** This is a very incomplete version.  
 Thanks to **OpenAI** and **Bolt** for the help.
 
- *Dedicated to the love of my life, Luna I love you.*
+ *Dedicasse a ma luna to the love of my life, I love you
